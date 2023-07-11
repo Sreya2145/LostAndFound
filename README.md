@@ -1,2 +1,2 @@
 # LostandFoundApp
-An app made using kotlin for students to post their lost items and find them
+This app helps people to post about their lost items and also keeps a track of found items.
